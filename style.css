@@ -49,7 +49,7 @@ hr {
 
 /* Add your solution below */
 
-footer {
+footer > p{
   text-align: center;
 }
 
